@@ -1,4 +1,4 @@
-# Nagłówki w HTML
+# Projekt 1
 [Kliknij tutaj aby rozwiązać zadanie](https://githubbox.com/Publishing-School/html-projekt-1)
 
 
